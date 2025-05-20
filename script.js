@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         try {
-            const response = await fetch('http://localhost:5000/conteudo', {
+            const response = await fetch('https://world-explorer-backend-seven.vercel.app/conteudo', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
