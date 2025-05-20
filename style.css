@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.response h1 {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 2;
+}
+
+.response h2 {
+    font-size: 20px;
+    line-height: 2;
+}
+
+.response p {
+    font-size: 16px;
+    line-height: 1.3;
+}
